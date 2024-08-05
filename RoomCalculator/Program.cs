@@ -33,3 +33,5 @@ Console.WriteLine($"The volume of the room is {volume} cubic ft.");
 
 decimal surfaceArea = 2 * ((length * width) + (width * height) + (height * length));
 Console.WriteLine($"The surface area of the room is {surfaceArea} square ft.");
+
+Console.WriteLine("Thank you for using the Room Calculator!");
